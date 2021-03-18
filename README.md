@@ -14,3 +14,5 @@
 [![Node.js](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
 [![Figma](https://shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=fff)](https://www.figma.com/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalibryyy&hide=TeX&layout=compact)
