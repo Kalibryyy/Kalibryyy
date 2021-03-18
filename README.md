@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yelena Strizhakova and I'm a web-developer ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kalibryyy.news-explorer-frontend)
+### Hi there 👋 I'm Yelena Strizhakova and I'm a web-developer
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning React.js and Vue.js 
 - ⚡ Also I can use HTML, CSS, JS, React, Git, Node.js, Express.js, MongoDB
@@ -10,7 +10,7 @@
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![Webpack](https://shields.io/badge/-Webpack-2b3a42?logo=webpack&style=for-the-badge)](https://webpack.js.org/)
-[![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
-[![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
+[![React.js](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
+[![Node.js](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
 [![Figma](https://shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=fff)](https://www.figma.com/)
