@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Yelena Strizhakova and I'm a web-developer ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kalibryyy.news-explorer-frontend)
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning React.js and Vue.js 
+- 🌱 I’m currently learning Angular 
 - ⚡ Also I can use HTML, CSS, JS, React, Git, Node.js, Express.js, MongoDB
 - 📫 How to reach me: e.strizhakova@gmail.com
 
